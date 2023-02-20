@@ -1,8 +1,21 @@
-Olá, meu nome é Rafael Favaro e sou um jovem programador front-end de 25 anos.
+Olá, meu nome é Rafael Favaro e sou um jovem programador front-end com 25 anos. Formado em Direito, descobri a paixão pela tecnologia e, desde então, não parei de estudar e me aperfeiçoar na área. Sou comunicativo, orientado a resultados, bem humorado e tenho diversos cursos e certificações na área de programação.
+
+Além de ter experiência como Analista de Sistema em empresas como o CEJAM, onde trabalho atualmente, também fui Desenvolvedor Web Front-End na 011brasil Centro de Tecnologia, onde trabalhei por 2 anos. Nesse período, desenvolvi e trabalhei com a manutenção de sites, sistemas e aplicativos, além de prestar suporte técnico corporativo.
+
+Possuo uma ampla gama de competências, incluindo SQL, Comunicação, Controle de versão, Serviços web, Desenvolvimento de software, Metodologias Ágeis, .Net CORE, C#, programação orientada a objetos, Banco de dados, Depuração, Desenvolvimento de Front-End, HTML Semântico, JQuery, React.js, PHP, MySQL, Laravel, CSS, Bootstrap, CSS Flexbox, Scss, entre outras. Além disso, tenho certificações e cursos na área de programação.
+
+Além de minha formação e experiência profissional, tenho habilidades em metodologias Agile, controle de versão (GitLab e Git), depuração de código, design de interfaces, arquitetura MVC e soluções responsivas. Possuo também boa comunicação, foco no cliente e capacidade analítica, o que me permite trabalhar de forma eficiente e colaborativa em equipe.
+
+Com uma mentalidade de melhoria constante, procuro sempre me manter atualizado com as novas tecnologias da área, a fim de oferecer soluções inovadoras e eficientes. Acredito que a comunicação clara e eficiente é fundamental para o sucesso de qualquer projeto, e por isso sempre procuro trabalhar em equipe de forma colaborativa.
+
+##
 
 - 🔭 Hoje trabalho com Liderança técnica e desenvolvimento Front-End
 - 🌱 Estudando React e Inglês
 - 😄 Pronouns: ele/dele
+
+##
+
 <div>
   <a href="https://github.com/favaro01">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=favaro01&show_icons=true&theme=dark" />
