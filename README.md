@@ -1,4 +1,4 @@
-Olá, meu nome é Rafael Favaro e sou um programador front-end com 25 anos. Formado em Direito, descobri a paixão pela tecnologia e, desde então, não parei de estudar e me aperfeiçoar na área. Sou comunicativo, orientado a resultados, bem humorado e tenho diversos cursos e certificações na área de programação.
+Olá, meu nome é Rafael Favaro e sou um Desenvolvedor, descobri a paixão pela tecnologia e, desde então, não parei de estudar e me aperfeiçoar na área. Sou comunicativo, orientado a resultados, bem humorado e tenho diversos cursos e certificações na área de programação.
 
 Além de ter experiência como Analista de Sistema em empresas como o CEJAM, onde trabalho atualmente, também fui Desenvolvedor Web Front-End na 011brasil Centro de Tecnologia, onde trabalhei por 2 anos. Nesse período, desenvolvi e trabalhei com a manutenção de sites, sistemas e aplicativos, além de prestar suporte técnico corporativo.
 
